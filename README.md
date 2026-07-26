@@ -1,5 +1,5 @@
 ## Project Overview 
-- This project was created using Excel to support patient triaging and scheduling based on medical discipline, treating therapist, preferred appointment day and time, and scheduling status. 
+- This project was created using Excel to support patient triaging and scheduling based on medical discipline, treating therapist, preferred appointment day and time, and scheduling status.
 ## Features
 - Interactive dashboard with slicer filters for efficent data exploration. 
 
